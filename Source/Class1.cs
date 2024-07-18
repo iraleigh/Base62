@@ -1,4 +1,4 @@
-﻿namespace Base62;
+﻿namespace Source;
 
 public class Class1
 {
